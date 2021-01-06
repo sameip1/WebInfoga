@@ -10,7 +10,7 @@ Open the file in a text editor and change the IP addres with the one you want to
 
 For Unix/Linux:
 
-1. Go in a terminal and type(or copy and paste) the following command: git clone
+1. Go in a terminal and type(or copy and paste) the following command: git clone https://github.com/sameip1/WebInfoga.git
 2. Type: chmod +x webinfoga.sh
 3. Execute it by typing webinfoga.sh (to change the ip address read the How to use it:
 
