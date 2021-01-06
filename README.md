@@ -2,7 +2,7 @@
 WebInfoga is an tool used to see the content of an web server.
 
 How to use it:
-Open the file in a text editor and change the IP addres with the one you want to check the content.
+Open the file in a text editor and change the IP addres with the one you want to check the content and then execute it.
 
 
 
