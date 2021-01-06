@@ -1,7 +1,7 @@
 # WebInfoga
 WebInfoga is an tool used to see the content of an web server.
 
-To use it:
+How to use it:
 Open the file in a text editor and change the IP addres with the one you want to check the content.
 
 
@@ -10,4 +10,11 @@ Open the file in a text editor and change the IP addres with the one you want to
 
 For Unix/Linux:
 
-1.
+1. Go in a terminal and type(or copy and paste) the following command: git clone
+2. Type: chmod +x webinfoga.sh
+3. Execute it by typing webinfoga.sh (to change the ip address read the How to use it:
+
+
+For windows:
+1.Download the code(from github) by pressing on Download button.
+2.Execute it by going to the path where is saved and click on the script(webinfoga.py)
