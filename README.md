@@ -12,7 +12,7 @@ For Unix/Linux:
 
 1. Go in a terminal and type(or copy and paste) the following command: git clone https://github.com/sameip1/WebInfoga.git
 2. Type: chmod +x webinfoga.sh
-3. Execute it by typing webinfoga.sh (to change the ip address read the How to use it:
+3. Execute it by typing webinfoga.sh (to change the ip address read the How to use it:)
 
 
 For windows:
