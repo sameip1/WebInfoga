@@ -17,4 +17,4 @@ For Unix/Linux:
 
 For windows:
 1.Download the code(from github) by pressing on Download button.
-2.Execute it by going to the path where is saved and click on the script(webinfoga.py)
+2.Execute it by going to the path where is saved and then click on the script(webinfoga.py)
