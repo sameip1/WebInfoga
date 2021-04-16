@@ -8,7 +8,7 @@ Open the file in a text editor and change the IP addres with the one you want to
 
 !!!How to install it!!!
 
-For Unix/Linux:
+For Mac/Linux:
 
 1. Go in a terminal and type(or copy and paste) the following command: git clone https://github.com/sameip1/WebInfoga.git
 2. Type: chmod +x webinfoga.sh
